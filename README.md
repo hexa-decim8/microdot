@@ -1,4 +1,4 @@
-![microdot](https://github.com/hexa-decim8/microdot/blob/master/images/IMG_4542.jpg | width=100)
+![microdot](https://github.com/hexa-decim8/microdot/blob/master/images/IMG_4542.jpg)
 =======
 # Microdot
 This repository is a how-to for creating a film microdot using "The British Method" of microdot production.
