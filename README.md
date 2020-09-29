@@ -33,9 +33,8 @@ This is a long, stuck up way of saying, "I felt like it and I could."
 In this explainer, I will be covering two different methods for microdot production, and a third hybrid
 system that can bridge analog and digital formats.
 
-# Single-phase method overview
+# Single-phase Method Overview
 The one step method will produce a 2cm X 1cm "macrodot" that will hold one full-page document of information per dot.
-
 
 ## Materials
 * 35mm camera
@@ -118,13 +117,14 @@ Once the microdot has been created, finding a way to transport it is the next bi
 you've made a 2cm dot, or a literal piece of dust, your options will be a little different.
 
 Historically, stamps have been a popular way of hiding microdots. In the good old days, people used to do all kinds of
-things to stamps in order to hide both information and drugs. In the case of microdots, placing one under a stamp, fixing the stamp to an envelope, and mailing it to a recipient who has been told ahead of time that the stamp
+things to stamps in order to hide both information and drugs. In the case of microdots, placing one under a stamp, 
+fixing the stamp to an envelope, and mailing it to a recipient who has been told ahead of time that the stamp
 conceals a microdot was an effective way of moving illicit information from one place to another using the mail system.
 
 This was convenient in pre-internet days, but could still be used as an alternate method of data transfer for more
 modern information.
 
-# Hybrid analog/digital microdot schemes
+# Hybrid Analog/Digital Microdot Schemes
 Digital microdots haven't been much explored because of other digital options that are often much more efficient in
 data obfuscation than image minaturization. On the other hand, an overlooked method of data transfer is a spy's best
 friend. So what are the options?
@@ -136,7 +136,15 @@ this is only meant to be one tool in a set of tools.
 These are both basic-bitch methods that are likely to get you caught quickly, and aren't good options in general for
 serious information transfer needs. But what about some other choices?
 
-## RFID microdots
+Trying to duplicate the film-stock microdot production method with a digital SLR would result in a high-resolution image
+file which could hypothetically be used to convey a microdot image. This would make the transfer of data much easier using
+digital technology, but as has been pointed out elsewhere, wouldn't make as much sense considering the variety of other,
+better digital information transfer options.
+
+However, illicit data transfer using this hybridized digital microdot method would certainly be a novel way of moving
+information from one place to another, and thus shouldn't be immediately counted out.
+
+## RFID Microdots
 RFID microdotting is an underappreciated technique for physical data transfer. This has a number of low-cost, effective
 appliations that have not yet been developed.
 
@@ -165,7 +173,7 @@ Is that a grainy image, or a photo covered in tiny microdots? It's hard to tell,
 quality in an image could house tiny fragments of human readable information. This is just a concept, so don't ask
 me for a PoC. I don't have one.
 
-# OPSEC considerations
+# OPSEC Considerations
 After having produced something like this, it's easy to wonder why this method was ever used for info transfer.
 We've had radio communications for virtually as long as we've had microdots, so the applicability of this method might
 seem odd to the laymen.
@@ -173,6 +181,16 @@ seem odd to the laymen.
 The historic reality is that microdots have a time and place. What that time and place is, is up to the sender and
 recipient. While there are enough back-alleys that still exist on the Internet, there are still places on the planet
 where it's less risky to use a more rudimentary, older system.
+
+# Reflections
+For me, this process could be improved by using a higher quality of film stock. What I used was a fairly standard
+roll of 35mm film, but something much higher in contrast such as microfiche or other stock specifically designed
+for high-quality document photography would have worked much better. Another possible improvement for next time would
+be to use a lens with a better focal distance than what I had at my disposal. This will be a bit harder to work around
+since these kinds of lenses are typically much more expensive.
+
+If I could only choose one thing of the two to improve the quality of the smallest size of microdot for next time though,
+it would be the higher film stock.
 
 # Summary
 Are microdots an anacronism that have no application in the modern world? Has their time long since passed, and died
